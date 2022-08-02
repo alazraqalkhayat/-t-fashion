@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="_filter" data-name=" filter" transform="translate(-556 -508)">
+    <g id="filter" transform="translate(556 508)">
+      <path id="Vector" d="M17.437,2.583V5.425A4.822,4.822,0,0,1,16.146,8.4L10.592,13.3A4.2,4.2,0,0,0,9.3,16.275v5.554a2.877,2.877,0,0,1-1.162,2.2L6.329,25.187a2.632,2.632,0,0,1-4-2.2V16.146a4.992,4.992,0,0,0-1.033-2.712L0,12.077,7.517,0h7.337a2.591,2.591,0,0,1,2.583,2.583Z" transform="translate(9.171 2.713)" fill="#fff" opacity="0.4"/>
+      <path id="Vector-2" data-name="Vector" d="M10.2,0,3.514,10.734,1.163,8.267A4.282,4.282,0,0,1,0,5.683V2.712A2.622,2.622,0,0,1,2.584,0Z" transform="translate(4.391 2.713)" fill="#fff"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H31V31H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

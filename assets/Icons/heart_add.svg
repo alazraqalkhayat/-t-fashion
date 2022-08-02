@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.145" height="48.145" viewBox="0 0 48.145 48.145">
+  <g id="_heart-add" data-name="  heart-add" transform="translate(-236 -252)">
+    <g id="heart-add" transform="translate(236 252)">
+      <g id="Group" transform="translate(24.875 24.875)">
+        <path id="Vector" d="M19.258,9.629A9.629,9.629,0,1,1,9.629,0,9.629,9.629,0,0,1,19.258,9.629Z" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <g id="Group-2" data-name="Group" transform="translate(6.038 6.239)">
+          <path id="Vector-2" data-name="Vector" d="M7.182,0H0" transform="translate(0 3.511)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Vector-3" data-name="Vector" d="M0,0V7.2" transform="translate(3.591)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        </g>
+      </g>
+      <path id="Vector-4" data-name="Vector" d="M40.121,11.214a22.121,22.121,0,0,1-2.628,10.471A9.629,9.629,0,0,0,23.33,34.7a20.554,20.554,0,0,1-2.026.822,4.375,4.375,0,0,1-2.487,0C13,33.541,0,25.256,0,11.214a11.137,11.137,0,0,1,20.06-6.74,11.137,11.137,0,0,1,20.06,6.74Z" transform="translate(4.012 6.219)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H48.145V48.145H0Z" transform="translate(48.145 48.145) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

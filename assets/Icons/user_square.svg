@@ -1,0 +1,8 @@
+<svg id="_user-square" data-name=" user-square" xmlns="http://www.w3.org/2000/svg" width="24.38" height="24.38" viewBox="0 0 24.38 24.38">
+  <g id="user-square">
+    <path id="Vector" d="M0,5.812a5.824,5.824,0,0,0,2.488.475H7.243a5.824,5.824,0,0,0,2.488-.475C9.557,2.562,7.441,0,4.865,0S.174,2.562,0,5.812Z" transform="translate(7.325 15.593)" fill="none" stroke="#f67662" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+    <path id="Vector-2" data-name="Vector" d="M0,6.783V12.6c0,3.663,1.1,5.669,3.74,6.415a10.806,10.806,0,0,0,3.043.368H12.6a10.806,10.806,0,0,0,3.043-.368c2.636-.746,3.74-2.752,3.74-6.415V6.783C19.38,1.938,17.442,0,12.6,0H6.783C1.938,0,0,1.938,0,6.783Z" transform="translate(2.5 2.5)" fill="none" stroke="#f67662" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Vector-3" data-name="Vector" d="M0,4.475A4.475,4.475,0,1,0,4.475,0,4.475,4.475,0,0,0,0,4.475Z" transform="translate(7.715 6.414)" fill="none" stroke="#f67662" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+    <path id="Vector-4" data-name="Vector" d="M24.38,0H0V24.38H24.38Z" fill="none" opacity="0"/>
+  </g>
+</svg>
